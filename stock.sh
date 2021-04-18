@@ -23,6 +23,10 @@ open https://www.fool.com/premium/company/${ticker}
 open https://robinhood.com/stocks/${ticker}
 open https://www.nasdaq.com/market-activity/stocks/${ticker}/dividend-history
 
+open https://hedgefollow.com/stocks/${ticker}
+open https://www.nasdaq.com/market-activity/stocks/${ticker}/institutional-holdings
+open https://www.etf.com/stock/${ticker}
+
 open https://last10k.com/sec-filings/${ticker}
 open https://seekingalpha.com/symbol/${ticker}/earnings/transcripts
 open https://en.wikipedia.org/wiki/${ticker}
