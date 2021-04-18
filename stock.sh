@@ -26,6 +26,7 @@ open https://www.nasdaq.com/market-activity/stocks/${ticker}/dividend-history
 open https://last10k.com/sec-filings/${ticker}
 open https://seekingalpha.com/symbol/${ticker}/earnings/transcripts
 open https://en.wikipedia.org/wiki/${ticker}
+open https://twitter.com/search?q=%24${ticker}
 
 open https://www.zacks.com/stock/chart/${ticker}/fundamental/pe-ratio-ttm
 open https://www.zacks.com/stock/chart/${ticker}/fundamental/peg-ratio-ttm
